@@ -6,7 +6,7 @@ type IndexPageRef = React.ForwardedRef<HTMLDivElement>
 
 export default function About(props: IndexPageProps, ref: IndexPageRef) {
   return (
-    <div className="mt-8 sm:mt-16 mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+    <div className="h-full mt-8 sm:mt-16 md:mt-24 mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
       <PageTransition ref={ref}>
         <div className="flex items-center justify-start w-full gap-4">
           <h1 className="text-xl md:text-2xl lg:text-3xl w-48">

@@ -21,7 +21,7 @@ export default function Home(props: IndexPageProps, ref: IndexPageRef) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="mt-8 sm:mt-16 mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+      <main className="mt-8 sm:mt-16 md:mt-24 mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
         <PageTransition ref={ref}>
           <div
             id="home"
