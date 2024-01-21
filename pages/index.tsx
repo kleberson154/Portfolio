@@ -1,4 +1,4 @@
-import PageTransition from '@/components/PageTransition'
+import PageTransition from '@/src/components/PageTransition'
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
