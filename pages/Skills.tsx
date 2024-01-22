@@ -14,7 +14,7 @@ export default function Skills(props: IndexPageProps, ref: IndexPageRef) {
           </h1>
           <div className="w-full sm:w-5/6 h-px bg-primary" />
         </div>
-        <div className="flex max-md:flex-col-reverse max-md:flex-col max-md:items-center md:justify-between md:items-start pt-4 sm:pt-16">
+        <div className="flex max-md:flex-col-reverse  max-md:items-center md:justify-between md:items-start pt-4 sm:pt-16">
           <Image src={Decoration} alt="Decoracao de quadrados" />
 
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 lg:pl-6 max-md:py-8  gap-2">
