@@ -10,7 +10,7 @@ export default function Skills(props: IndexPageProps, ref: IndexPageRef) {
       <PageTransition ref={ref}>
         <div className="flex items-center justify-start w-full gap-4">
           <h1 className="text-xl md:text-2xl lg:text-3xl ">
-            <span className="text-primary">#</span>Habilidades{' '}
+            <span className="text-primary font-semibold">#</span>Habilidades{' '}
           </h1>
           <div className="w-full sm:w-5/6 h-px bg-primary" />
         </div>
