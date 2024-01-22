@@ -98,7 +98,7 @@ export const Work = [
       'TSPARTICLES',
       'REACT-ICON'
     ],
-    demo: 'https://kleberson.vercel.app/',
+    demo: 'https://my-portfolio2-0-sigma.vercel.app/',
     github: 'https://github.com/kleberson154/My-Portfolio2.0/tree/main'
   }
 ]
