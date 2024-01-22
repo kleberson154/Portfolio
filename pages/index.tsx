@@ -19,7 +19,7 @@ export default function Home(props: IndexPageProps, ref: IndexPageRef) {
           content="Portfolio created by kleberson Andrade - Developer Full-Stack"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/images/Logo.svg" />
       </Head>
       <main className="mt-8 sm:mt-16 md:mt-24 mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
         <PageTransition ref={ref}>
