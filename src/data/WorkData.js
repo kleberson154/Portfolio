@@ -73,6 +73,22 @@ export const Work = [
   },
   {
     id: 10,
+    name: 'Cryptocurrency',
+    image: '/images/currency.png',
+    tags: ['REACT', 'AXIOS', 'JAVASCRIPT'],
+    demo: 'http://cryptocurrency-lyart.vercel.app/',
+    github: 'https://github.com/kleberson154/Cryptocurrency'
+  },
+  {
+    id: 11,
+    name: 'NftLanding',
+    image: '/images/nftLanding.png',
+    tags: ['REACT', 'SASS', 'SCROLLREVEAL', 'REACT-ICON'],
+    demo: 'http://nftlading.vercel.app/',
+    github: 'https://github.com/kleberson154/nftlading'
+  },
+  {
+    id: 12,
     name: 'Old Portfolio',
     image: '/images/oldPort.png',
     tags: [
