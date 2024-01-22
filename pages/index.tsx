@@ -59,7 +59,9 @@ export default function Home(props: IndexPageProps, ref: IndexPageRef) {
                 encontram com a criatividade
               </p>
               <button className="border-2 border-primary px-4 py-2 hover:bg-primary">
-                Entre em Contato!
+                <a href="https://wa.me/5534991336956" target="_blank">
+                  Entre em Contato!
+                </a>
               </button>
             </div>
             <div className="flex flex-col items-center max-sm:mx-8 max-xl:mt-8">

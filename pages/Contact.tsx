@@ -3,6 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faDiscord,
   faInstagram,
+  faLinkedin,
   faWhatsapp
 } from '@fortawesome/free-brands-svg-icons'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
@@ -79,6 +80,18 @@ export default function Contact(props: IndexPageProps, ref: IndexPageRef) {
                     className="pr-2"
                   />
                   @kleberson.14
+                </a>
+                <a
+                  href="https://linkedin.com/in/kleberson154"
+                  target="_blank"
+                  className="text-secondary hover:text-white flex"
+                >
+                  <FontAwesomeIcon
+                    icon={faLinkedin}
+                    size="xl"
+                    className="pr-2"
+                  />
+                  kleberson andrade
                 </a>
               </div>
             </div>
