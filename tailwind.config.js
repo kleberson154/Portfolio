@@ -14,6 +14,9 @@ module.exports = {
         primary: '#C778DD',
         secondary: '#ABB2BF',
         background: '#282C33'
+      },
+      height: {
+        100: '30rem'
       }
     }
   },
